@@ -25,7 +25,7 @@ IUPAC(International Union of Pure and Applied Chemistry)
 - Liquid solar fuel synthesis  
   液态太阳能燃料合成
 
-- Nanoparticle mega libraries
+- Nanoparticle mega libraries  
   大型纳米粒子库
 
 - Nanozymes  
