@@ -32,3 +32,7 @@ This favicon was generated using the following font:
 - Font Author: Copyright (c) 2011 Gesine Todt (<www.gesine-todt.de> <hallo@gesine-todt.de>), with Reserved Font Names "Leckerli"
 - Font Source: <https://fonts.gstatic.com/s/leckerlione/v20/V8mCoQH8VCsNttEnxnGQ-1itLZxcBtItFw.ttf>
 - Font License: SIL Open Font License, 1.1 (<http://scripts.sil.org/OFL>))
+
+## Pokemon Guide
+
+> 数据、图片、流程使用了[神奇宝贝百科](https://wiki.52poke.com/)的信息
